@@ -1,0 +1,10 @@
+# Ignorar la carpeta .vs
+.vs/
+
+# Ignorar archivos binarios de VS, etc.
+bin/
+obj/
+
+# Si deseas ignorar otras cosas
+*.log
+
